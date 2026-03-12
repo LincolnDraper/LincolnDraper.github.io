@@ -1,1 +1,8 @@
-
+---
+permalink: /
+title: "Landing page test"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
